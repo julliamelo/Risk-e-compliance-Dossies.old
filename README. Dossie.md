@@ -1,5 +1,5 @@
 # Risk-e-Complice-Dossies.old
-Esse repoositorio so para descrição do projeto que temos em privado
+Portfólio / Vitrine] Automação RPA para consulta fiscal. Código-fonte principal mantido em repositório privado por segurança.
 
 
 Robô de Dossiês de Compliance & Due Diligence 🛡️
